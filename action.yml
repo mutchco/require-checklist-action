@@ -15,3 +15,6 @@ inputs:
     description: Require a checklist to exist
     required: false
     default: "false"
+  issueNumber:
+    description: An optional issue number
+    required: false
